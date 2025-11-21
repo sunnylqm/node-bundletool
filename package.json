@@ -1,0 +1,20 @@
+{
+  "name": "node-bundletool",
+  "version": "0.0.1",
+  "description": "",
+  "homepage": "https://github.com/sunnylqm/node-bundletool#readme",
+  "bugs": {
+    "url": "https://github.com/sunnylqm/node-bundletool/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnylqm/node-bundletool.git"
+  },
+  "license": "MIT",
+  "author": "sunnylqm",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
